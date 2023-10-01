@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **VibhorAgrawal2003/VibhorAgrawal2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I am Vibhor Agrawal and I love exploring different technologies. I have an interest in software and game development with a passion for creating assets, characters and stories. Actively working on improving my programming and design skills. 
+I am Vibhor Agrawal and I love exploring different technologies. I have been practising competitive coding, data structures and algorithms in C++. I have also worked on simple projects in various languages such as Python, JavaScript and C/C++. My primary aim is to improve my problem solving skills and write good code fast. I love brainstorming ways to implement algorithms and find optimal solutions to save time and space. I also have an interest in other areas such as software and game development and I am actively searching for opportunities in these areas. 
 
-## Languages & Tools
+### Holopins
+<div>
+  :point_down: These are my holopins which I earned by participating in open source events like Hacktoberfest. <br />
+</div>
 
-:point_down: These are the various languages and tools I'm familiar with. 
+[![An image of @vibhoragrawal2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vibhoragrawal2003)](https://holopin.io/@vibhoragrawal2003)
+
+### Languages & Tools
+:point_down: These are some of the languages and tools I am familiar with.
 <br />
 <div>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
