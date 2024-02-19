@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Vibhor Agrawal and I love exploring different technologies. I have been practising competitive coding, data structures and algorithms in C++. I have also worked on simple projects in various languages such as Python, JavaScript and C/C++. My primary aim is to improve my problem solving skills and write good code fast. I love brainstorming ways to implement algorithms and find optimal solutions to save time and space. I also have an interest in other areas such as software and game development and I am actively searching for opportunities in these areas. 
+I'm Vibhor Agrawal, a dedicated developer known for quick learning and turning ideas into reality. My journey with coding began with C++ and Python during my school days, and my passion for these languages has only grown stronger through my college years. Alongside, I harbor a profound enthusiasm for game development, dedicating my free time to mastering the intricacies of game programming and level design.
+
+I firmly believe in the philosophy of learning by doing, hence I'm constantly engaged in building various projects, ranging from Python applications to Web Apps and Browser Games. Each project serves as a testament to my problem-solving skills and a stepping stone towards my goals.
 
 ### Holopins
 <div>
