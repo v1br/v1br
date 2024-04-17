@@ -23,8 +23,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-purple?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-darkcyan?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-cornflowerblue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-lightskyblue?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/node-green?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/express-darkolivegreen?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-chartreuse?style=for-the-badge&logo=mongodb&logoColor=white" />
