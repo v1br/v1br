@@ -6,6 +6,10 @@
 
 <h1 align="center">Hi, I'm Vibhor. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
+<p align="center">
+   <img align="center" src="https://github.com/VibhorAgrawal2003/VibhorAgrawal2003/tree/main/kitty.gif" >
+</p>
+
 - I love computers, coding and developing software, tools and games.
 - I enjoy solving coding problems and my go-to platform is LeetCode.
 - I am that one guy who actually loves using pointers and iterators in C++.
