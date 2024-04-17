@@ -26,8 +26,10 @@
   <img src="https://img.shields.io/badge/javascript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-cornflowerblue?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/node-green?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-lime?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/express-darkolivegreen?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-chartreuse?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-darkred?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/postman-orangered?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/phaser-mediumslateblue.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" />
   <img src="https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
@@ -37,11 +39,11 @@
 <h2>Connect with me</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/vibhor-agrawal-8505b5262" target="_blank">
+  <a href="https://www.linkedin.com/in/vibhor-agrawal-8505b5262" target="_blank" rel="noreferrer noopener">
       <img src="https://img.shields.io/badge/vibhoragrawal-blue?style=flat&logo=linkedin" alt="Linkedin">
   </a>
   
-  <a href="mailto:vibhorag2003@gmail.com" target="_blank">
+  <a href="mailto:vibhorag2003@gmail.com" target="_blank" rel="noreferrer noopener">
       <img src="https://img.shields.io/badge/vibhorag2003%40gmail.com-white?style=flat&logo=gmail&logoColor=d85140" alt="Mail">
   </a>
 </p>
