@@ -1,26 +1,24 @@
-
 <p align="center" float="left">
   <img align="left" src="https://komarev.com/ghpvc/?username=VibhorAgrawal2003&label=Profile%20views&color=2a17d1" alt="Profile Views"/>
   <img align="right" src="https://img.shields.io/github/followers/VibhorAgrawal2003?color=2a17d1&label=Followers" alt="Follower Count" /> 
-</p>
+</p><br/>
 
-<h1 align="center">Hi, I'm Vibhor. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Hi, I'm Vibhor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p align="center">
-   <img align="center" src="https://github.com/VibhorAgrawal2003/VibhorAgrawal2003/blob/main/kitty.gif" width="160px">
-</p>
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; vertical-align: top;">
+        I'm a programmer with a love for building fun apps, tools & games. I have experience making things with python, javascript, godot and c++. I am also comfortable working with Linux and enjoy participating in CTFs and coding contests.
+    </td>
+    <td style="border: none; vertical-align: top; padding: 0;">
+        <img src="terriermon.gif" style="width: 600px; height: auto;">
+    </td>
+  </tr>
+</table>
 
-- I love computers, coding and developing software, tools and games.
-- I enjoy solving coding problems and my go-to platform is LeetCode.
-- I am that one guy who actually loves using pointers and iterators in C++.
-- I develop applications in Python using various libraries, such as PyQt5 and OpenCV.
-- I sometimes build websites using MERN stack and am planning to learn more.
-- I am working on a platformer game using PhaserJS and I absolutely love that framework.
 
-
-<h2>Tools in my toolbox</h2>
-
-<p align="center">
+**Some tools I am familiar with :hammer:**
+<p>
   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-purple?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,17 +37,12 @@
   <img src="https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-
-
-<h2>Connect with me</h2>
-
+**Connect with me :handshake:**
 <p>
   <a href="https://www.linkedin.com/in/vibhor-agrawal-8505b5262" target="_blank" rel="noreferrer noopener">
-      <img src="https://img.shields.io/badge/vibhoragrawal-blue?style=flat&logo=linkedin" alt="Linkedin">
+      <img src="linkedin.gif" alt="Linkedin" width="40px">
   </a>
-  
-  <a href="mailto:vibhorag2003@gmail.com" target="_blank" rel="noreferrer noopener">
-      <img src="https://img.shields.io/badge/vibhorag2003%40gmail.com-white?style=flat&logo=gmail&logoColor=d85140" alt="Mail">
+  <a href="https://www.discordapp.com/users/693554366409605170" target="_blank" rel="noreferrer noopener">
+      <img src="discord.gif" alt="Discord" width="40px">
   </a>
 </p>
-
