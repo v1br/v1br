@@ -11,7 +11,9 @@
         I'm a programmer with a love for building fun apps, tools & games. I have experience making things with python, javascript, godot and c++. I am also comfortable working with Linux and enjoy participating in CTFs and coding contests.
     </td>
     <td style="border: none; vertical-align: top; padding: 0;">
+      <a href="https://digimon.fandom.com/wiki/Terriermon">
         <img src="terriermon.gif" style="width: 600px; height: auto;">
+      </a>
     </td>
   </tr>
 </table>
