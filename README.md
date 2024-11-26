@@ -5,14 +5,14 @@
 
 <h1>Hi, I'm Vibhor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<table style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td style="border: none; vertical-align: top;">
+    <td>
         I'm a programmer with a love for building fun apps, tools & games. I have experience making things with python, javascript, godot and c++. I am also comfortable working with Linux and enjoy participating in CTFs and coding contests.
     </td>
-    <td style="border: none; vertical-align: top; padding: 0;">
+    <td>
       <a href="https://digimon.fandom.com/wiki/Terriermon">
-        <img src="terriermon.gif" style="width: 600px; height: auto;">
+        <img src="images/terriermon.gif" style="height: auto; width: 720px;">
       </a>
     </td>
   </tr>
@@ -42,9 +42,9 @@
 **Connect with me :handshake:**
 <p>
   <a href="https://www.linkedin.com/in/vibhor-agrawal-8505b5262" target="_blank" rel="noreferrer noopener">
-      <img src="linkedin.gif" alt="Linkedin" width="40px">
+      <img src="images/linkedin.gif" alt="Linkedin" width="40px">
   </a>
   <a href="https://www.discordapp.com/users/693554366409605170" target="_blank" rel="noreferrer noopener">
-      <img src="discord.gif" alt="Discord" width="40px">
+      <img src="images/discord.gif" alt="Discord" width="40px">
   </a>
 </p>
