@@ -11,7 +11,7 @@
         I'm a programmer with a love for building fun apps, tools & games. I have experience making things with python, javascript, godot and c++. I am also comfortable working with Linux and enjoy participating in CTFs and coding contests.
     </td>
     <td>
-      <a href="https://www.pokemon.com/us/pokedex/squirtle">
+      <a href="https://www.pokemon.com/us/pokedex/squirtle" target="_blank">
         <img src="images/squirtle.gif" style="height: auto; width: 720px;">
       </a>
     </td>
