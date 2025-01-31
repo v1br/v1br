@@ -1,6 +1,6 @@
 <p align="center" float="left">
-  <img align="left" src="https://komarev.com/ghpvc/?username=VibhorAgrawal2003&label=Profile%20views&color=2a17d1" alt="Profile Views"/>
-  <img align="right" src="https://img.shields.io/github/followers/VibhorAgrawal2003?color=2a17d1&label=Followers" alt="Follower Count" /> 
+  <img align="left" src="https://komarev.com/ghpvc/?username=v1br&label=Profile%20views&color=2a17d1" alt="Profile Views"/>
+  <img align="right" src="https://img.shields.io/github/followers/v1br?color=2a17d1&label=Followers" alt="Follower Count" /> 
 </p><br/>
 
 
