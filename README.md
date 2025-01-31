@@ -4,7 +4,7 @@
 </p><br/>
 
 
-### Hi, I'm Vibhor &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, I'm Vibhor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <table>
   <tr>
