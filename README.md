@@ -41,10 +41,13 @@ Some tools I am familiar with 🔨
   <img src="https://img.shields.io/badge/figma-292929?logo=figma&logoColor=fc8bfb">
 </p>
 
-<!-- Some games I think you should try 🎮
+Some games I think you should try 🎮
 
 <p>
   <img src="https://img.shields.io/badge/undertale-292929?logo=undertale&logoColor=eb4034">
-  <img src="https://img.shields.io/badge/mother 3-292929?logo=https%3A%2F%2Fraw.githubusercontent.com%2Fv1br%2Fv1br%2Fmain%2Fimages%2Fmother3.png">
-</p> -->
+  <img src="https://img.shields.io/badge/earthbound-292929?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAsCAMAAADGmMENAAAAq1BMVEVHcEwDAwMDAwMAAAABAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8GBgYODg5DQ0MVFRVNTU0aGhpdXV1WVlZtbW1mZmYgICD39/cpKSkvLy+KioqDg4Pe3t7w8PCcnJx0dHQ1NTW/v788PDzm5uaxsbH8/Px8fHwlJSW6urqWlpaioqLGxsbQ0NCRkZHr6+uoqKjW1taHfaERAAAAEnRSTlMA8+tHAznTZYeVyhYetal5CNu4s8R6AAAEH0lEQVQ4y31V6VrbMBCMDYQECrSyrFvyfd933v/JKjshEKDdP07k+dYzoz12u9t4fnh73ZuGYZj717e7593/4uHwZLok8eM+9hPiGk+Hh/t/Yo+mV2dFZZ2jKnzkma8PP2KfD2bez9ZNOPOCzMOvHxI/qS6yvkU0x+7T3Vfwo0nGr8gqiqKOJyw3H2/ZPxpp+C1viVB5in3mUeMG/mhAXnzCDZnmXM0+4o6TLDyojccP8J0JxIVztDoystFqW/3LmSanRkNR1eaV+68nQObQisppioNxOmUoqKwYrdQyLz6htrcctr84c38EUMxVFGAi6pHwidc6bTidnMwSoBkDRiIr9I5n6ncGADAJEASIBQKLIHTOrE4iDAOaUtzUkRUbG5ffrxpMMFij8WDOy85fRY6Ob6O26iWX1B6Klrz8Xq9Fp0ZjYmNWK+hC5XpkKayqskbVANpmQuYUtoV/Tq5Z09Kq6skpGqVA004nnTmR2UlyCGiCgjEH/okt6KgN2YP05Kxfnh0pMMDB6kWEAOoJ1OTUJLUiusS+1LZojXipoqUjQ1R2EqJlU1iUPLU12A4cp/T00waE3u0O+ohmg4dgGxVabDrM55J12lK4mNZB4ufAbrQ477B7Wb1IW0WBEEgnwQ1axjAO/Laoeg+Cc+jUQKUvu/32jzF94gG6vVGYapRM/PakjyEEDVNEAdv9szM3NEw88CU8H5VxQoJWNp3AQ+wBZe6M8zsqc3iLVhNPPLq0LYG2LeaSUGa8o4HNEvdLdpchqFZn0mTpU06kcWGyXbvAN2AYhD3DVAGee1RJTgLzovIq/COaePZTTksCZW4DL4V98ufs4E/R6VYjLCkIgBoNter8ZbudT4EbmG5yURhZRYK48G24fhML0hy26gb21Q8q0oVBSLkceRuWyE3HIWYUQ+auN6+rCvCMf2ijnZhE0hdhnnXDOCXdMPcN5YpuzXbUN+kEn42mLBeh1coMsVjULh9QqlzV5cdLN/iFvLpHkUAA+lY5ORMMoiHv+15C2pZbN6ydZtddd4GngUClZ8uSsdAHOKUipg3Q5XzutLNOHAdoqqm+opRKD+Pac9OSQ109DQQqmK3l3MXrhAAQ4UBmll+XHbeRdkw7PQQQbN7VupuuE2KzxQYYi3Fy1ealyoV0G7WSs0m2tsZ1+myTDcCUAnqpKyUJ0VmxDT1UOpYTfZ5s69S8MR1xSPL12UdOFFpF6H+emrt7Dafj/F6yTapyl0K2bgo9WIraeLsZ4PePJuD9pX+wzAahS3XYmnkc0ddpr7k/vfPIV1lhbQMWnbLI937YJNqZw9oYEGmF01BERZd7XPaxax5//bTU7h9eTQCn1o/9uEzqkSmP53oD/mtj3m/blUuZdJNg1Db/t123rXn39rI3IYTm/uX75v4LT5Cmp501ItYAAAAASUVORK5CYII=&logoColor=ffffff">
+
+
+
+</p>
 
