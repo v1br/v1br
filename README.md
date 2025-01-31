@@ -4,7 +4,7 @@
 </p><br/>
 
 
-<h1>Hi, I'm Vibhor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+### Hi, I'm Vibhor &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <table>
   <tr>
@@ -19,33 +19,32 @@
   </tr>
 </table>
 
-**Some tools I am familiar with :hammer:**
+Some tools I am familiar with 🔨
+
 <p>
-  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-purple?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-darkcyan?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-cornflowerblue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-lightskyblue?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/node-green?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/express-darkolivegreen?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-chartreuse?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/supabase-darkgreen?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/sql-slateblue?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-darkred?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/postman-orangered?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/phaser-mediumslateblue.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" />
-  <img src="https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-292929?logo=python">
+  <img src="https://img.shields.io/badge/c++-292929?logo=cplusplus&logoColor=8e4ae0">
+  <img src="https://img.shields.io/badge/html5-292929?logo=html5">
+  <img src="https://img.shields.io/badge/css-292929?logo=css3&logoColor=4a4fe0">
+  <img src="https://img.shields.io/badge/javascript-292929?logo=javascript">
+  <img src="https://img.shields.io/badge/typescript-292929?logo=typescript">
+  <img src="https://img.shields.io/badge/node-292929?logo=nodedotjs">
+  <img src="https://img.shields.io/badge/bun-292929?logo=bun">
+  <img src="https://img.shields.io/badge/react-292929?logo=react">
+  <img src="https://img.shields.io/badge/express-292929?logo=express">
+  <img src="https://img.shields.io/badge/postman-292929?logo=postman">
+  <img src="https://img.shields.io/badge/mysql-292929?logo=mysql">
+  <img src="https://img.shields.io/badge/mongodb-292929?logo=mongodb">
+  <img src="https://img.shields.io/badge/supabase-292929?logo=supabase">
+  <img src="https://img.shields.io/badge/linux-292929?logo=linux&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/git-292929?logo=git">
+  <img src="https://img.shields.io/badge/figma-292929?logo=figma&logoColor=fc8bfb">
 </p>
 
-**Connect with me :handshake:**
+<!-- Some games I think you should try 🎮
+
 <p>
-  <a href="https://www.linkedin.com/in/vibhor-agrawal-8505b5262" target="_blank" rel="noreferrer noopener">
-      <img src="images/linkedin.gif" alt="Linkedin" width="40px">
-  </a>
-  <a href="https://www.discordapp.com/users/693554366409605170" target="_blank" rel="noreferrer noopener">
-      <img src="images/discord.gif" alt="Discord" width="40px">
-  </a>
-</p>
+  <img src="https://img.shields.io/badge/undertale-292929?logo=undertale&logoColor=eb4034">
+  <img src="https://img.shields.io/badge/mother 3-292929?logo=https%3A%2F%2Fraw.githubusercontent.com%2Fv1br%2Fv1br%2Fmain%2Fimages%2Fmother3.png">
+</p> -->
 
