@@ -23,7 +23,7 @@ Some tools I am familiar with 🔨
   <img src="https://img.shields.io/badge/python-292929?logo=python">
   <img src="https://img.shields.io/badge/c++-292929?logo=cplusplus&logoColor=8e4ae0">
   <img src="https://img.shields.io/badge/html5-292929?logo=html5">
-  <img src="https://img.shields.io/badge/css-292929?logo=css3&logoColor=4a4fe0">
+  <img src="https://img.shields.io/badge/css3-292929?logo=css3&logoColor=4a4fe0">
   <img src="https://img.shields.io/badge/javascript-292929?logo=javascript">
   <img src="https://img.shields.io/badge/typescript-292929?logo=typescript">
   <img src="https://img.shields.io/badge/node-292929?logo=nodedotjs">
