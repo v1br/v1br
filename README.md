@@ -12,9 +12,7 @@
       I'm a programmer with a love for building fun apps, tools & games. I have experience making things with python, javascript, godot and c++. I am also comfortable working with Linux and enjoy participating in CTFs and coding contests.
     </td>
     <td style="padding: 8px; height: 100%; width: 40%; overflow: hidden;>
-      <a href="https://www.pokemon.com/us/pokedex/squirtle">
         <img src="images/shovel.gif" style="height: 100%; width: 100%; object-fit: cover;"">
-      </a>
     </td>
   </tr>
 </table>
