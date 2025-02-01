@@ -11,7 +11,7 @@
     <td style="padding: 8px; height: 100%; width: 60%; overflow: hidden;">
       I'm a programmer with a love for building fun apps, tools & games. I have experience making things with python, javascript, godot and c++. I am also comfortable working with Linux and enjoy participating in CTFs and coding contests.
     </td>
-    <td style="padding: 8px; height: 100%; width: 40%; overflow: hidden;>
+    <td style="padding: 8px; height: 100%; width: 40%; overflow: hidden;">
       <img src="images/shovel.gif" style="height: 100%; width: 100%; object-fit: cover;"">
     </td>
   </tr>
