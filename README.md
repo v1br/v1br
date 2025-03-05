@@ -12,7 +12,9 @@
       I'm a programmer with a love for building fun apps, tools & games. I have experience making things with python, javascript, godot and c++. I am also comfortable working with Linux and enjoy participating in CTFs and coding contests.
     </td>
     <td style="padding: 8px; height: 100%; width: 40%; overflow: hidden;">
-      <img src="images/shovel.gif" style="height: 100%; width: 100%; object-fit: cover;"">
+      <picture>
+        <img src="images/shovel.gif" style="height: 100%; width: 100%; object-fit: cover;"">
+      </picture>
     </td>
   </tr>
 </table>
@@ -27,8 +29,8 @@ Some tools I am familiar with 🔨
   <img src="https://img.shields.io/badge/javascript-292929?logo=javascript">
   <img src="https://img.shields.io/badge/typescript-292929?logo=typescript">
   <img src="https://img.shields.io/badge/node-292929?logo=nodedotjs">
-  <img src="https://img.shields.io/badge/bun-292929?logo=bun">
   <img src="https://img.shields.io/badge/react-292929?logo=react">
+  <img src="https://img.shields.io/badge/tailwind-292929?logo=tailwindcss">
   <img src="https://img.shields.io/badge/express-292929?logo=express">
   <img src="https://img.shields.io/badge/postman-292929?logo=postman">
   <img src="https://img.shields.io/badge/mysql-292929?logo=mysql">
@@ -36,14 +38,21 @@ Some tools I am familiar with 🔨
   <img src="https://img.shields.io/badge/mongodb-292929?logo=mongodb">
   <img src="https://img.shields.io/badge/firebase-292929?logo=firebase&logoColor=f58a42">
   <img src="https://img.shields.io/badge/supabase-292929?logo=supabase">
-  <img src="https://img.shields.io/badge/aws-292929?logo=amazonwebservices">
-  <img src="https://img.shields.io/badge/linux-292929?logo=linux&logoColor=f5f58e">
-  <img src="https://img.shields.io/badge/docker-292929?logo=docker">
+  <img src="https://img.shields.io/badge/next-292929?logo=nextdotjs">
+  <img src="https://img.shields.io/badge/npm-292929?logo=npm&logoColor=cb3837">
+  <img src="https://img.shields.io/badge/bun-292929?logo=bun">
+  <img src="https://img.shields.io/badge/conan-292929?logo=conan">
   <img src="https://img.shields.io/badge/git-292929?logo=git">
+  <img src="https://img.shields.io/badge/bash-292929?logo=gnubash">
+  <img src="https://img.shields.io/badge/docker-292929?logo=docker">
   <img src="https://img.shields.io/badge/figma-292929?logo=figma&logoColor=fc8bfb">
+  <img src="https://img.shields.io/badge/netlify-292929?logo=netlify">
+  <img src="https://img.shields.io/badge/vercel-292929?logo=vercel">
+  <img src="https://img.shields.io/badge/aws-292929?logo=amazonwebservices">
   <img src="https://img.shields.io/badge/godot-292929?logo=godotengine">
 </p>
 
+<<<<<<< HEAD
 Some games I think you should try 🎮
 
 <p>
@@ -54,3 +63,8 @@ Some games I think you should try 🎮
 </p>
 
 <img src="images/knight.gif">
+=======
+<picture>
+  <img src="images/knight.gif">
+</picture>
+>>>>>>> 767836489ff66430307687f8259814bf4266db0e
