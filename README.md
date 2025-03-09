@@ -1,15 +1,5 @@
 <div align="left">
     <p>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▀▄&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▄▀</span><br/>
-        <span>▄▄▄▄████▄▄▄▄▄</span><br/>
-        <span>█▒░▒░▒░▒░▒░█▀█</span><br/>
-        <span>█░▒░▒░▒▒░▒░█▀█</span><br/>
-        <span>█▄▄▄▄▄▄▄▄▄▄██▒</span><br/>
-    </p>
-</div><br/>
-
-<div align="left">
-    <p>
         <span>┌── ( v1br🔸Vibhor Agrawal ) - [~]</span><br/>
         <span>└─💲cat ~/about-me.txt</span><br/>
     </p><br/>
