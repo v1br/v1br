@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
     <p>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▀▄&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▄▀</span><br/>
         <span>▄▄▄▄████▄▄▄▄▄</span><br/>
