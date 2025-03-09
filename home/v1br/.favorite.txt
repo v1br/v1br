@@ -1,0 +1,3 @@
+[ c++ ] [ python ] [ typescript ] [ javascript ]
+[ node ] [ react ] [ tailwind ] [ express ]
+[ postgresql ] [ bash ] [ bun ] [ git ]
