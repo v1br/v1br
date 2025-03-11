@@ -1,3 +1,1 @@
-Hi! I am a developer exploring the corners of the internet in search of awesome tools, sites & projects to integrate into my personal ecosystem and maybe draw some inspiration along the way.
-
-Scripts, tools & games excite me and so I'm always jumping from idea to idea. I like to keep most of my repositories public, even the ones that are not complete, so you can have a look at what I have made. ✌🏼
+Hi! I am a developer exploring the awesome corners of the internet in search of inspiration and cool stuff. Scripts, tools & games excite me and so I'm always jumping from idea to idea. I also have a soft spot for retro tech and the good ol' command-line.✌🏼
