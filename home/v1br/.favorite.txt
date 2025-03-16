@@ -1,1 +1,1 @@
-[ vscode ] [ c++ ] [ python ] [ typescript ] [ javascript ] [ node ] [ react ] [ tailwind ] [ express ] [ phaser ] [ chart ] [ postgresql ] [ firebase ] [ supabase ] [ bash ] [ bun ] [ git ] [ docker ] [ godot ] [ figma ]
+[ vscode ] [ c++ ] [ python ] [ typescript ] [ javascript ] [ node ] [ react ] [ remix ] [ tailwind ] [ express ] [ phaser ] [ chart ] [ postgresql ] [ firebase ] [ supabase ] [ bash ] [ bun ] [ git ] [ docker ] [ godot ] [ figma ]
