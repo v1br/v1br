@@ -5,7 +5,7 @@
         <span>└─💲cat ~/about-me.txt</span><br/>
     </p>
     <p>
-        Hi! I am a developer exploring the awesome corners of the internet in search of inspiration and cool stuff. Scripts, tools & games excite me and so I'm always jumping from idea to idea. I also have a soft spot for retro tech and the good ol' command-line.✌🏼
+        Hi! I am a software engineer exploring the awesome corners of the Internet in search of inspiration and cool stuff. I love discovering and making fun websites, tools and games. I also have a soft spot for retro-tech and the good ol' command-line. ✌🏼
     </p><br />
     <p>
         <span>┌── ( v1br🔸Vibhor Agrawal ) - [~]</span><br/>
@@ -13,14 +13,17 @@
     </p>
     <p>
         <img src="https://img.shields.io/badge/vscode-292929?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABOFBMVEVHcEwdqOggqu0fqushp/EHf8UeqekAbbAAcrYBd7wBg8shqO8Ae8EBeL0aouIRjdUYnuYTmuIgq+wDd7gipfEjrPIisO8Ac7UAitIAhtABfMIBe8IAcrYAfMQAc7QAba8AecAAhNAAhM8AidIAjtQAhNADjtMBgs0Cd7ghru4Ad7gAa64Aj9UAc7UDhNEBf8cCfcUfnvAAeb8AitMfnvAAebsAdrgequofnvAfnPAepO0AfMQAj9QAbK8jsO8AeccAcbIjsO8ZlOYAeLkAhdEAdrcipfEAi9Mio/EAg88AbrEAh9EAdLYgofEip/EhovEiq/IAgc8AjdQAbK8fn/EAidIAerskq/MAfs0Agc0Aj9UAcrQCecQjqfIAaqoAe8wiqfEkrPMAfL0CdcIdnOscmeoAZqYLh8b9nNabAAAAQ3RSTlMA+Pv6HgP56T8hJ94wCvkGM0D9/t/f/rtgqxMYTX+t0aC55U/n9NSPjpr0YuvZ1Q5tocrH7uZY7OSTq9d4d+bx7YzdX23mwgAAAohJREFUSMeNlmd72jAURkUwm5QV9t6b0FBCmo60BToMZJRAMVCnhST9//+gki00CAYfPvKeR1e+15IBOICrWXCU3UA3x/FK/1/A/1mvclpaTYddcyDwsew26chHUyssIMXjOpS3JVZI8L0yQrzeziHFHkT5LhLMCKOxUxb25J1nUwQSzAYVs/lSO299NyWCgdDRzMfaUywsWMGgETedt7uY/mJ4WDA1K909gj201RRXnOa3BDP821OY196fcu31dXnBSAEgm5tDwnaSj6R8fYbhp5KDFUK1uUIhuxmHRJ+jHhMc3iOM8Qjg/ByWdayMQ5DPJ+wACUb4Q3hB7SchbEPtHbLxShxuTvDfejfcglCOCPOWx5pcLIaU+jl6fIL/LwVtmq6Ra8tjkSpBp7Irwf+LojzWb5TVWIYGUhaVUgTsFICbNSRRFpVF1HJU4TdFHfwWYwz6Slm4nN0CsKUnDFNZFjflKILjhQCiYdaQLFV2uATHH8I1ae+UNTIhXrim4JKC8nN3QJhM8sXIPsEZFMfyc7/HKIO0U1uwJkURGQvGGDBlCSdfKShfF0VsSD3KgJS1JcQsoipAw5LpseCyeKGK88hIWq0NzmhkTS8EkhflFBrvFmfklfE++U4BljHG8kF5gezpHyw9+O7yQhUbyRhpOmdIjRgvwE2jfMLGHAKscCddFS84AbYBlsMdM8U7Bmm5fLwhjJSyq9btgyyvJdxoHZV5acOMEUbqCrsIZThhRNA+7rExQ8JIhwAvlJnKcvlE8/d7riz3mZJ/QML9hsu9l2JaFdZEePNa2H/thh8g6/XTJn7wpo6mqKAjrjQdVoSEi7e6Ph3Qx8nVevYI47o/Z1zNxhc2/h8430mc6Md1+AAAAABJRU5ErkJggg==">
+        <img src="https://img.shields.io/badge/csharp-292929?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAKBSURBVDiNdZNLSJRRGIaf8884vzM6jpNlWSYIEiWUposWBUUQGhJUq5AKJCgrSINSKKERrE1BVGK3RUES0cWiq4irNkYXtQKxFhJpt/E2Mzrj//vPzNcinHSyd3M433nf5/vgnKOYR4KoJ+Utu0TUKQClpHFb+6E7CiXJXpVceFLWXBJHuwBsSDp6oymtZlt7dde8gAdlV3PsKuZD2AfY5psMEIHWFJvUVTw//DMBeFR++YASOQu4ARxunbzyQryrFhO3YgQ++fna0Y81ac6AJkSp49vbD15VDzedz9R0fWwG5l25mHWNW3F4nHNaG2MRXvteEPjsx7JihIKmxHUjX7PbXRkzYYdbT4QlLoy8/8ZwzxASi5O6wEVR7UaCEyZ+/ySGaan0WEaOfXaXvPLCRPhVw1OGu4cAWFi8DG9xLl0XXyIipKQ5sMLTAMwBeFdmAzD68XsibJpR+jr6sZ714cxKY3NTBQDttW3/AiQmidWYjvJldBwV1/DYHf+5FNBmb8b7fwGQVbSUiVwX42GDsakI2pos1jdsQYnQWf+YzvrHxMxo0gQCPW095G1fjTvbTdWNKgZeDaCUIn9dPppNY0lJLm27biLW36b2aDQSmpgW+TISUBHTIlh9i71X9uDOdlOwviBhDPlD3Ku7z1AwSLrDwSLdxaQt9EMBnCtuah2fjFTGRBSA0+OkdGcJy4uXAzDYO8jbB+8wQgYANqXEm+66fay3YXfiKTdvOLMiHIzeDUwZRSL//BkAFIoMpz7gdNh31Haf/PCnlqRLpacrA4bZEjYsz+y6S08JZ6amHj3SfeL6XOg88uHTMtbaL4SmjP2CwuPUr4V6ojU+fPFk728LtASEP7hPIgAAAABJRU5ErkJggg==">
         <img src="https://img.shields.io/badge/c++-292929?logo=cplusplus&logoColor=8e4ae0">
         <img src="https://img.shields.io/badge/python-292929?logo=python">
         <img src="https://img.shields.io/badge/typescript-292929?logo=typescript">
         <img src="https://img.shields.io/badge/javascript-292929?logo=javascript">
+        <img src="https://img.shields.io/badge/dotnet-292929?logo=dotnet">
+        <img src="https://img.shields.io/badge/sk-292929?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABlVBMVEVHcEyjS95nqv5+kPeIPc2yYehTqP6LUtqyXedhofi43/+3TOFJzv+pqfifxv+itPqynfZYof6cvfyqo/aluvykrvlusf+DNMNaov2YZuqKcu5KmPyFdu95fvJbov1mh/aZZuuDNMO8kfSEPMvChfKCLr3IbexTnP3Iee9UnP1Go/2DNsVMlPuBML+7VeNJkPaSJ8KDJ7ivPtykMtKcK8qsN9qrM9qzRd5CtP6T6v9o2f9+4P990vpAvv5+x/hAyP85IZdDH5x7HKqCJrUuIZFXHaNOkfpKm/yGMLxBhfCAIK+7o/hQHKFKHZ9iHKZ0gfRhifjEl/ZtJa3Tj/fKaekfJYrJY+kkMplGp/5wGpq/XOZxHKg8heS5U+JDrv0xZtY7eucoXtFBuf8+wP2Hjt6noPCtrfljNbCAT9Jxjt18bOWIc+5AMaVNbdlNlfyrdt8oIoyHQMvJiPSYLcOJHLlUkO/XdfLVf/TdhPfmfvkxOZ8jT7Y9ofRFjPYeRLStPNq0Rd82dOaeO8gsddlY1f87p+5v2P4UdYcPAAAAQHRSTlMABgYNq0tMI6cXBv3946eu7fZPLfYjpy0jruOSLe2uqfbjqVAX7e4tkuPu9u0N46kXqePukqdI+6dI46fu45L7riaYUwAAAO5JREFUGNNjYGBgYGKzsLXnsbK25GIAA05prbikZJ6WNhs7ThCfWd7NPQIo0hqT4KnPDBSQkQ0AitQ0J8YneOqoAwXYpfwD8mKq6xIbPd00JYACjJLZ/rnhoaHh8bXuckwgQ1gVsnJcXFwKqkoF2cC2MHJkODo6AEGmGBNEgKXQ1cfX19ExhQ/iEGVtjyA/V1ef9FQRIYgCD2en6Gi/oHzvNH6QHnZFZy8np5LikOBAb15RoIC4KlBBpEdYZUVwoIAwUEDX0MvLuSk2KqSsvEgJ5HQGAxPj+gbu2KgwNQ0ViHcZzUyNzLn1OFgZgRwAjMYzJGhRuNoAAAAASUVORK5CYII=">
         <img src="https://img.shields.io/badge/node-292929?logo=nodedotjs">
         <img src="https://img.shields.io/badge/react-292929?logo=react">
+        <img src="https://img.shields.io/badge/reactrouter-292929?logo=reactrouter">
         <img src="https://img.shields.io/badge/next-292929?logo=nextdotjs">
-<!--         <img src="https://img.shields.io/badge/remix-292929?logo=remix"> -->
         <img src="https://img.shields.io/badge/django-292929?logo=django&logoColor=b0f1d9">
         <img src="https://img.shields.io/badge/fastapi-292929?logo=fastapi">
         <img src="https://img.shields.io/badge/redux-292929?logo=redux&logoColor=7a50be">
@@ -39,3 +42,4 @@
         <img src="https://img.shields.io/badge/figma-292929?logo=figma&logoColor=ff7667">
     </p><br />
 </div>
+
